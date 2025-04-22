@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hey there! I'm Renato Saldivia, aka Rengy Price 👋
 
+![Image](https://github.com/user-attachments/assets/cec8a345-4785-4205-a29f-e74be8068e97)
 <!--
 **RenatoSaldivia/RenatoSaldivia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
