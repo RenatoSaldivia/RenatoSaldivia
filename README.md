@@ -6,7 +6,7 @@
 
 I build simple projects that combine logic and creativity — from data analysis to small interactive experiences.
 
-![Image](https://github.com/user-attachments/assets/cec8a345-4785-4205-a29f-e74be8068e97)
+<img width="3240" height="1080" alt="BoJack Horseman" src="https://github.com/user-attachments/assets/12734e86-ff2f-45e8-958e-4a593950636d" />
 
 ---
 
