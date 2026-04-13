@@ -1,25 +1,44 @@
-## Hey there! I'm Renato Saldivia, aka Rengy Price 👋
+
+## Hey, I'm Renato Saldivia 👋
+
+💻 Computer Science graduate focused on web development and Python  
+🎨 Pixel artist with a passion for game development  
+
+I build simple projects that combine logic and creativity — from data analysis to small interactive experiences.
 
 ![Image](https://github.com/user-attachments/assets/cec8a345-4785-4205-a29f-e74be8068e97)
 
-I'm a pixel artist and developer who loves bringing retro-inspired worlds to life. Currently working on my personal gallery and exploring new ways to share digital art online.
+---
+
+### 🚀 Projects
+
+- 🧠 Data analysis (mental health & weather datasets)  
+- 🎮 2D game development (Unity)  
+- 🖥️ Web projects (portfolio & pixel art gallery)  
 
 ---
 
-### 🌐 Connect with me
+### 🛠️ Tech
 
-- 📸 [Instagram - @pixel_rengy](https://www.instagram.com/pixel_rengy/)  
-- 💼 [LinkedIn - renatosaldiviap](https://www.linkedin.com/in/renatosaldiviap/)
-
----
-
-### 🚀 What I'm up to
-
-- 🎮 Creating pixel art mockups and small game ideas  
-- 🖥️ Building a personal web gallery from scratch  
-- 📚 Learning Python and sharpening my JavaScript skills
+- HTML, CSS, JavaScript  
+- Python  
+- Unity (basic)  
+- Git & GitHub  
 
 ---
 
-Thanks for stopping by ✨  
-Always open to creative ideas, collabs, or just chatting about art and code!
+### 🌱 Currently learning
+
+- JavaScript (frontend)  
+- Python for real-world applications  
+
+---
+
+### 📫 Contact
+
+- 💼 LinkedIn: https://www.linkedin.com/in/renatosaldiviap/  
+- 📸 Pixel art: https://www.instagram.com/pixel_rengy/  
+
+---
+
+⭐ Open to junior opportunities and learning experiences
