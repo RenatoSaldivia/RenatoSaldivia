@@ -8,10 +8,6 @@ I build simple projects that combine logic and creativity — from data analysis
 
 <img width="3240" height="1080" alt="BoJack Horseman" src="https://github.com/user-attachments/assets/12734e86-ff2f-45e8-958e-4a593950636d" />
 
-<p align="center">
-  <sub>Pixel art by me</sub>
-</p>
-
 ---
 
 ### 🚀 Projects
